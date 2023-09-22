@@ -27,7 +27,6 @@
 
 
 <script lang="ts">
-import { BIconBatteryFull } from 'bootstrap-icons-vue';
 import { Vue } from 'vue-class-component';
 
 export default class HomeView extends Vue {}
